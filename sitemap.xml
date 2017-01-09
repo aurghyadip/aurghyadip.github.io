@@ -12,6 +12,16 @@
   </url>
   
   <url>
+    <loc>http://aurghyadip.me/post/stop-piracy/</loc>
+    <lastmod>2016-10-02T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aurghyadip.me/post/change/</loc>
+    <lastmod>2016-08-31T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aurghyadip.me/project/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -22,33 +32,8 @@
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/post/getting-started/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aurghyadip.me/post/widgets/</loc>
-    <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aurghyadip.me/post/managing-content/</loc>
-    <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aurghyadip.me/post/writing-markdown-latex/</loc>
-    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://aurghyadip.me/publication/person-re-identification/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aurghyadip.me/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
