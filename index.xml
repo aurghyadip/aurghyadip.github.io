@@ -7,8 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>http://aurghyadip.me &amp;copy; 2016 Aurghyadip Kundu</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>E-Learning for Indian Students</title>
+      <link>http://aurghyadip.me/project/deep-learning/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aurghyadip.me/project/deep-learning/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;The most under rated sector in eLearning is probably where you have to teach kids in regional languages. I was one of the very few students who wanted to study in my mother tongue upto +12 level. And first handely I found out that, there&amp;rsquo;s no help available for the students who are in Regional Language Medium.
+My project is to provide students with a video education system, preferably in their regional language (Bengali, Hindi, Oriya, Marathi etc.).&lt;/p&gt;
+
+&lt;p&gt;As every project has two or three stages, this project also has a couple of them.&lt;/p&gt;
+
+&lt;h3 id=&#34;stage-1&#34;&gt;Stage 1:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Building the content library as much as possible. That means recording videos from teachers who are willing to contribute and also preparing some materials, like short notes, chapter gists. etc.&lt;/li&gt;
+&lt;li&gt;Editing the videos, and planning the courses. Also, carefully curate the contents on a level base so that students won&amp;rsquo;t have any problems understanding the chapters. (This might be one of the most time consuming parts)&lt;/li&gt;
+&lt;li&gt;Building the website and apps required to deliver the contents. Building the apps require resources and also extensive testing of them. This is also one time consuming step.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;stage-2&#34;&gt;Stage 2:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Testing the contents with actual students and taking feedback from them. How they like the contents and what can be improved to make it more suitable and pleasant.&lt;/li&gt;
+&lt;li&gt;Testing the platform. Testing the platform on a local network also takes a lot of time, hopefully this will be the &lt;strong&gt;Closed Beta&lt;/strong&gt; stage of the website and the apps.&lt;/li&gt;
+&lt;li&gt;Releasing an open beta for both the website and the contents, carefully so that the contents doesn&amp;rsquo;t get misused.&lt;/li&gt;
+&lt;li&gt;Marketing, some marketing is always necessary to make a project successful, just to let parents and students know that we are doing something like this might interest people more and we end up with a better product.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;stage-3&#34;&gt;Stage 3:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Deploying :&lt;/strong&gt; Deploying the webapps and contents on a live server.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Managing :&lt;/strong&gt; Managing the whole finished project requires manpower and is equally hectic. Because problems arise in all projects.&lt;/li&gt;
+&lt;li&gt;Making the community self sustaining is the ultimate goal of any project.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The project will be an open source project only if my backers agree to it, otherwise, until and unless I have the money to make the whole project open source, the project will be under a license and a copyright&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Talk</title>
@@ -109,33 +153,6 @@ And if it’s you then,&lt;/p&gt;
 
 &lt;p&gt;Originally Published on &lt;a href=&#34;http://personal.aurghyadip.com/change/&#34; target=&#34;_blank&#34;&gt;Close To The Heart&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>http://aurghyadip.me/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://aurghyadip.me/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>http://aurghyadip.me/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://aurghyadip.me/project/example-external-project/</guid>
-      <description></description>
     </item>
     
     <item>

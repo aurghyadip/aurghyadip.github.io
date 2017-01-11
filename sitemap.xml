@@ -3,7 +3,12 @@
   
   <url>
     <loc>http://aurghyadip.me/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aurghyadip.me/project/deep-learning/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,16 +24,6 @@
   <url>
     <loc>http://aurghyadip.me/post/change/</loc>
     <lastmod>2016-08-31T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aurghyadip.me/project/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aurghyadip.me/project/example-external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
