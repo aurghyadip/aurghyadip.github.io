@@ -2,57 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://aurghyadip.me/</loc>
+    <loc>http://aurghyadip.github.io/</loc>
     <lastmod>2017-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/project/deep-learning/</loc>
+    <loc>http://aurghyadip.github.io/project/deep-learning/</loc>
     <lastmod>2017-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/talk/example-talk/</loc>
+    <loc>http://aurghyadip.github.io/talk/example-talk/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/post/stop-piracy/</loc>
+    <loc>http://aurghyadip.github.io/post/stop-piracy/</loc>
     <lastmod>2016-10-02T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/post/change/</loc>
+    <loc>http://aurghyadip.github.io/post/change/</loc>
     <lastmod>2016-08-31T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/publication/person-re-identification/</loc>
+    <loc>http://aurghyadip.github.io/publication/person-re-identification/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/publication/clothing-search/</loc>
+    <loc>http://aurghyadip.github.io/publication/clothing-search/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/home/about/</loc>
+    <loc>http://aurghyadip.github.io/post/PC_Part_1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://aurghyadip.github.io/home/about/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/home/posts/</loc>
+    <loc>http://aurghyadip.github.io/home/posts/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/home/projects/</loc>
+    <loc>http://aurghyadip.github.io/home/projects/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurghyadip.me/home/contact/</loc>
+    <loc>http://aurghyadip.github.io/home/contact/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   

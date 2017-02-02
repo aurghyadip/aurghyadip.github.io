@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on Aurghyadip Kundu</title>
-    <link>http://aurghyadip.me/post/index.xml</link>
+    <link>http://aurghyadip.github.io/post/index.xml</link>
     <description>Recent content in Post-rsses on Aurghyadip Kundu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>http://aurghyadip.me &amp;copy; 2016 Aurghyadip Kundu</copyright>
+    <copyright>http://aurghyadip.github.io &amp;copy; 2016 Aurghyadip Kundu</copyright>
     <lastBuildDate>Sun, 02 Oct 2016 11:00:00 +0000</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why Should We Stop Piracy?</title>
-      <link>http://aurghyadip.me/post/stop-piracy/</link>
+      <link>http://aurghyadip.github.io/post/stop-piracy/</link>
       <pubDate>Sun, 02 Oct 2016 11:00:00 +0000</pubDate>
       
-      <guid>http://aurghyadip.me/post/stop-piracy/</guid>
+      <guid>http://aurghyadip.github.io/post/stop-piracy/</guid>
       <description>
 
 &lt;p&gt;Piracy is a big issue in a growing country like India, especially for us developers &amp;amp; creators. I am not only talking about games, I am talking about movies, music, software (and games).
@@ -63,10 +63,10 @@ Now people with unlimited internet will say that speed is slower when downloadin
     
     <item>
       <title>Change</title>
-      <link>http://aurghyadip.me/post/change/</link>
+      <link>http://aurghyadip.github.io/post/change/</link>
       <pubDate>Wed, 31 Aug 2016 12:00:00 +0000</pubDate>
       
-      <guid>http://aurghyadip.me/post/change/</guid>
+      <guid>http://aurghyadip.github.io/post/change/</guid>
       <description>
 
 &lt;h2 id=&#34;some-minor-things&#34;&gt;Some Minor Things&lt;/h2&gt;
@@ -98,6 +98,52 @@ And if it’s you then,&lt;/p&gt;
 &lt;p&gt;Copyright 2016 &lt;a href=&#34;https://personal.aurghyadip.com&#34; target=&#34;_blank&#34;&gt;Aurghyadip Kundu&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Originally Published on &lt;a href=&#34;http://personal.aurghyadip.com/change/&#34; target=&#34;_blank&#34;&gt;Close To The Heart&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://aurghyadip.github.io/post/PC_Part_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aurghyadip.github.io/post/PC_Part_1/</guid>
+      <description>
+
+&lt;h1 id=&#34;building-a-2000-pc-and-studio-from-scratch&#34;&gt;Building a $2000 PC (and studio) from Scratch&lt;/h1&gt;
+
+&lt;p&gt;As a lot of you might know that I am building a new PC which costs around $2000 (a bit more than that actually). So, here&amp;rsquo;s why and how I am planning to build it.&lt;/p&gt;
+
+&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+
+&lt;p&gt;I am taking up a project that needs over 45+ hours of video footage processing and rendering. My current PC is a dual core and my current graphics card is also not up to the mark, at this point you might as why I didn&amp;rsquo;t go with a Macbook Pro or iMac in the first place. Well, the answer is easy, a Macbook pro or iMac is not nearly as much as powerful as a custom build $2000 PC.&lt;/p&gt;
+
+&lt;h3 id=&#34;few-more-things&#34;&gt;Few More Things&lt;/h3&gt;
+
+&lt;p&gt;It took me almost three months to figure out what I want and how I am going to execute the whole build. I went through a lot of PC Mags and a lot of documentations, benchmarks and price to performance ratios to find what I was looking for in the first place.
+You&amp;rsquo;ll get to know what I am talking about in a bit.&lt;/p&gt;
+
+&lt;h2 id=&#34;planning&#34;&gt;Planning&lt;/h2&gt;
+
+&lt;p&gt;Planning is a crucial part in any kind of thing, if your planning isn&amp;rsquo;t good enough, the whole thing will fall like a house of cards.&lt;/p&gt;
+
+&lt;p&gt;I wanted to build a cheap but powerful computer which performs well even under heavy workload.
+Here&amp;rsquo;s my first draft configuration, it&amp;rsquo;s a fairly simple Skylake config.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;i5 6600k&lt;/li&gt;
+&lt;li&gt;Gigabyte H110M-DS2 DDR4 Motherboard&lt;/li&gt;
+&lt;li&gt;8 GB Kingston HyperX Fury DDR4 RAM&lt;/li&gt;
+&lt;li&gt;WD Blue 1 TB HDD&lt;/li&gt;
+&lt;li&gt;Kingston UV300 120GB SSD for OS&lt;/li&gt;
+&lt;li&gt;Deepcool Frostwin v2.0 Cooler&lt;/li&gt;
+&lt;li&gt;Corsair VS550 PSU&lt;/li&gt;
+&lt;li&gt;MSI Gamin GTX 1060 6GB&lt;/li&gt;
+&lt;li&gt;Circle EPIC gaming cabinet&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As you can see, the config is pretty basic, and does well for the price. Although, I was not quite satisfied with it because of the Motherboard, that was almost unacceptable for me, but this draft stayed with me for at least 2 months until I decided to turn the heat up a notch.&lt;/p&gt;
+
+&lt;p&gt;Well, that calls for another post. See you soon.&lt;/p&gt;
 </description>
     </item>
     
